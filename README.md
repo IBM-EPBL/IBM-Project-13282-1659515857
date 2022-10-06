@@ -1,4 +1,6 @@
 # IBM-Project-13282-1659515857
+![Retail Store Stock Inventory analytics](https://user-images.githubusercontent.com/73232534/194397969-8d22e5b5-0496-413c-b130-0c5f906d48a3.jpeg)
+
 # ®️Retail Store Stock Inventory Analytics
    - TECHNOLOGY : Data Analytics <br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
