@@ -6,10 +6,10 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 # 🧑‍💻TEAM MEMBERS
- - Krishnamoorthy M
- - Bharath KumarK
- - Jotheeswaran S
- - Mirun Kannan V
+ - Krishnamoorthy M(731619104025)
+ - Bharath KumarK(731619104009)
+ - Jotheeswaran S(731619104022)
+ - Mirun Kannan V(731619104033)
  
  # ♣️PROJECT DESCRIPTION
  - This dataset contains a lot of historical sales data of a Brazilian top retailer.
